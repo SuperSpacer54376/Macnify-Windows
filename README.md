@@ -1,33 +1,5 @@
-[![GitHub Logo](https://graph.org/file/b08506b345f39971a004c.jpg)](https://github.com/runixe786/Macified_Windows)
-    <h1 align="center">Macified Windows</h1>
-
-<p align="center">This repository contains information and tools that I use to make my Windows 11 desktop look like macOS. I will share the steps and resources that I followed to achieve this transformation, as well as some screenshots of the final result. Lets begin macifying your Windows 11 desktop :) .</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/stars/runixe786/Macified-Windows.svg?style=flat&logo=github&colorB=deeppink&label=star">
- <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/runixe786/Macified-Windows">
-    <img alt="total-downloads" src="https://img.shields.io/github/downloads/runixe786/Macified-Windows/total">
-    <a href="https://t.me/GithubGeeks">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Channel-blue.svg">  
-<a href="https://t.me/DroidDenn">
-        <img src="https://img.shields.io/badge/Made%20With%20♥️-by%20Sahil-orange?style=style=flat">   
-    </a> 
-    </a>
-</p>
-
-<p align="center">
-  <a href="https://t.me/DroidDenn">
-    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FDroidDenn"
-  alt="Telegram">
-<a href="https://t.me/DroidDiscussion">
-    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FDroidDiscussion"
-        alt="Telegram"> </a>
-  </p>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/sahilseth2s">
-        <img style="width:250px" alt="buymeacoffee" src="https://i.imgur.com/fxJ4BNq.png">
-    </a>
-</p>
+[![GitHub Logo](https://github.com/SuperSpacer54376/Macnify-Windows/blob/f1138e664b74a5a918cb7cf94c38a854cd414db5/Assets/Macnify%20Windows%20(1).png)](https://github.com/SuperSpacer54376/Macnify-Windows)
+    <h1 align="center">Macnify Windows</h1>
 
 # Table of Contents
 
