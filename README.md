@@ -17,12 +17,7 @@
 # Final Look
 
 <p align="center">
-  <img src='https://graph.org/file/f624ebe7959b8e32d218f.jpg' width='700'>
-  <img src='https://graph.org/file/fc4b4430bf56bb80f2380.jpg' width='700'>
-  <img src='https://graph.org/file/322fac655fe45808bcca0.jpg' width='700'>
-  <img src='https://graph.org/file/44012347491ac2af73e60.jpg' width='700'>
-  <img src='https://graph.org/file/b6d2f50a94e557367f9fc.jpg' width='700'>
-  <img src='https://graph.org/file/9e2a334b753c5bffc0b5e.jpg' width='700'>
+  <img src='https://techpp.com/wp-content/uploads/2025/06/final-look.jpg' width='700'>
 </p>
 
 # 1. Premium macOS Wallpapers for Windows
@@ -36,7 +31,7 @@ To apply the same wallpaper to your lock screen, access Lock Screen settings wit
 
 # 2. macOS Cursors for Windows
 1. **Extract the Cursor Package**
-Locate the file "tahoe_cursors_MacnifyWindows.zip" within the Macnify-Windows folder. Select "Extract all" from the top toolbar, then click "Extract" to decompress the contents to your preferred destination.
+Locate the file "tahoe_cursors.zip" within the MacnifyWindows folder. Select "Extract all" from the top toolbar, then click "Extract" to decompress the contents to your preferred destination.
 
 2. **Access the Cursor Files**
 Navigate to the extracted folder and open "MacOS Tahoe Cursors," followed by "Tail," then "Without Shadow."
@@ -55,7 +50,7 @@ Navigate to the "Pointers" tab and select "MacOS Tahoe Cursor (No Shadow)" from 
 ## Installation Process
 
 ### 1. Extract the Widget Package
-Locate `Widgets_MacnifyWindows.zip` within the Macnify-Windows folder. Select **Extract all** from the toolbar to decompress the contents to your designated location.
+Locate `Widgets.zip` within the MacnifyWindows folder. Select **Extract all** from the toolbar to decompress the contents to your designated location.
 
 ### 2. Install uWidgets Application
 Identify your system architecture folder and extract its contents. Launch the installation by double-clicking the uWidgets application icon.
