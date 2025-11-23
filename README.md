@@ -90,6 +90,196 @@ Scroll down to the **Opacity Level** settings and adjust accordingly. For dark w
 ### 8. Configure Text Display
 To display colored text rather than monochrome, disable the toggle next to **Monochrome theme**.
 
+# macOS File Explorer for Windows
+
+A comprehensive guide to transform Windows File Explorer with a macOS-inspired interface.
+
+## Prerequisites
+
+- Windows 10/11
+- Administrator privileges
+- Macnify-Windows package
+
+## Installation Steps
+
+### 1. Extract Required Archives
+
+Extract the following files from the Macnify-Windows package:
+- `7tsp.zip`
+- `Themes.zip`
+
+Right-click each archive and select **Extract All** to extract contents to your preferred location.
+
+### 2. Configure 7TSP Icon Theme
+
+1. Navigate to the extracted `themes` folder
+2. Locate and open the `7tsp Icon theme` folder
+3. Rename `7tsp macOS blue.7z.remove` to `7tsp macOS blue.7z`
+   - Accept all system warnings
+4. Cut the renamed file using `Ctrl + X`
+
+### 3. Install Icon Pack
+
+1. Open the extracted `python-7tsp-0.1` folder
+2. Navigate to the `iconpacks` subfolder
+3. Paste the cut file using `Ctrl + V`
+
+### 4. Execute 7TSP Script
+
+1. Return to the `python-7tsp-0.1` directory
+2. Right-click `python-7tsp` and select **Run as administrator**
+   - If prompted with "Windows protected your PC", click **More info** → **Run anyway**
+3. Enter `0` and press `Enter`
+4. Close the terminal window upon completion
+
+### 5. Install Windows 11 Themes
+
+1. Navigate to `themes` → `Windows 11 Themes` folder
+2. Select and copy all contents (`Ctrl + C`)
+3. Navigate to: `C:\Windows\Resources\Themes`
+4. Paste contents using `Ctrl + V`
+   - Grant administrator permission when prompted
+
+### 6. Apply SecureUXTheme
+
+1. Locate `SecureUXtheme` in the MacnifyWindows folder
+2. Select **Extract All**
+3. Double-click the extracted file to run
+4. Restart your PC when prompted
+
+### 7. Configure Theme Settings
+
+1. Open **Settings** → **Personalization** → **Themes**
+2. Browse available themes and select your preferred option
+   - Hover over themes to view their names
+
+### 8. Install StartAllBack
+
+1. Locate `StartAllBack_3.9.18_setup.exe` in the MacnifyWindows folder
+2. Double-click to install
+3. Choose installation scope (current user or all users)
+
+### 9. Configure StartAllBack
+
+1. In StartAllBack settings, select the **Proper 11** theme
+2. Navigate to **Start Menu** and **Taskbar** tabs
+   - Disable both options
+3. Switch to the **Explorer** tab
+   - Select **Win7 Command Bar**
+   - Disable all options except **Colorize everything with accent color**
+
+### 10. Apply Explorer Blur Effect
+
+1. Locate `ExplorerBlurMica.zip` in the MacnifyWindows folder
+2. Right-click and select **Extract All**
+3. Navigate to: `Extracted Folder` → `Release`
+4. Right-click `register` and select **Run as administrator**
+   - If prompted with security warnings, click **More info** → **Run anyway**
+
+### 11. Configure Window Management Buttons (Optional)
+
+To position window controls on the left side (macOS style):
+
+1. Locate `Leftsider.zip` in the MacnifyWindows folder
+2. Right-click and select **Extract All**
+3. Navigate to: `Extracted Folder` → `Leftsider V1.02`
+4. Right-click `leftsider` and select **Run as administrator**
+
+## Verification
+
+Upon successful installation, File Explorer will feature:
+- macOS-inspired visual design
+- Blur effect integration
+- Customized window management controls
+- Unified accent color theming
+
+## Troubleshooting
+
+- **Access Denied**: Ensure all operations are performed with administrator privileges
+- **Theme Not Applying**: Verify SecureUXTheme installation and system restart
+- **Missing Files**: Re-extract archives to ensure all components are present
+
+## Notes
+
+- Some operations may trigger Windows security warnings—these are expected for theme modifications
+- Administrator permissions are required for system-level theme changes
+- Always create a system restore point before applying system modifications
+
+---
+# macOS Status Bar and Dock
+
+Transform your Windows desktop with a macOS-inspired dock and status bar using MyDockFinder.
+
+## Prerequisites
+
+- Windows 10/11
+- Administrator privileges
+- Macnify-Windows package
+
+## Installation Steps
+
+### 1. Extract Dock Package
+
+1. Locate `Dock.rar` in the MacnifyWindows folder
+2. Right-click the archive and select **Extract All**
+3. Choose your preferred extraction location
+
+### 2. Install MyDockFinder
+
+1. Navigate to the extracted folder
+2. Right-click `Dock_64` and select **Run as administrator**
+   - If prompted with "Windows protected your PC", click **More info** → **Run anyway**
+
+### 3. Initial Configuration
+
+MyDockFinder will automatically:
+- Install required components
+- Launch the application
+- Enable dock and status bar by default
+
+## Configuration
+
+### Accessing Settings
+
+The dock and status bar can be customized through MyDockFinder's settings panel to match your preferences.
+
+### Recommended Adjustments
+
+- **Dock Position**: Adjust placement (bottom, left, right)
+- **Icon Size**: Customize dock icon dimensions
+- **Animation Effects**: Configure hover and launch animations
+- **Status Bar**: Customize appearance and displayed information
+- **Auto-hide**: Enable/disable auto-hide functionality
+
+## Features
+
+- **macOS-Style Dock**: Application launcher with smooth animations
+- **Status Bar**: System information and quick access menu
+- **Customizable Appearance**: Adjust size, position, and behavior
+- **Application Management**: Pin and organize frequently used apps
+
+## Troubleshooting
+
+- **Application Not Starting**: Verify administrator privileges and Windows Defender exceptions
+- **Dock Not Visible**: Check display settings and scaling options
+- **Performance Issues**: Adjust animation settings or disable visual effects
+
+## Usage Tips
+
+- Right-click the dock for quick configuration options
+- Drag applications to the dock to pin them
+- Customize the status bar to display system metrics
+- Configure keyboard shortcuts for quick dock access
+
+## Notes
+
+- MyDockFinder runs in the background and starts automatically with Windows
+- Initial setup applies default macOS-inspired settings
+- Settings can be modified at any time through the application interface
+
+---
+
+
 # Credits
 This repo is written and (hopefully) maintained by me aka SuperSpacer54376
 
