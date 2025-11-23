@@ -1,5 +1,10 @@
+THIS PROJECT IS STILL UNDER CONSTRUCTION. PLEASE REFRAIN FROM FOLLOWING ANY GUIDES. ESTIMATE FINISH TIME 11/23/2025 8:00 PM CST
+
+
+
 [![GitHub Logo](https://github.com/SuperSpacer54376/Macnify-Windows/blob/f1138e664b74a5a918cb7cf94c38a854cd414db5/Assets/Macnify%20Windows%20(1).png)](https://github.com/SuperSpacer54376/Macnify-Windows)
     <h1 align="center">Macnify Windows</h1>
+    This version of Macnify is based on Mac OS Tahoe 26. Please request if you want any other versions!
 
 # Table of Contents
 
@@ -20,6 +25,7 @@
 
 So this is how the final look on your windows desktop will come out. Its always subject to the amount of customisations you do. If you follow instructions as given below in every segment, you will accomplish the same as in screenshots below:
 
+
 <p align="center">
   <img src='https://graph.org/file/f624ebe7959b8e32d218f.jpg' width='700'>
   <img src='https://graph.org/file/fc4b4430bf56bb80f2380.jpg' width='700'>
@@ -29,108 +35,70 @@ So this is how the final look on your windows desktop will come out. Its always 
   <img src='https://graph.org/file/9e2a334b753c5bffc0b5e.jpg' width='700'>
 </p>
 
-# Themes
+# #1 Premium macOS Wallpapers for Windows
+Access the latest macOS wallpaper collection [here](https://photos.google.com/share/AF1QipP6QAR8AyIrKR2HcY0hZOlyDXtJql7xSME9rQtOHMXAShdcjMXMCkYSE6Hx77W-aQ?key=clpGWEQ2bm5yNFpEMlIyWWJXbm1TTW1abjloMUF3). Select your preferred wallpaper and download it to your device.
 
-**Step 1**: extract the zip file and you will find a file called ThemePatcher. Open it, give permissions and patch the "Themeui" and "uxinit" by clicking on install button. Let it do its work. when its done, it will ask to reboot your pc which you gotta do. 
+Desktop Background Configuration
+Navigate to Windows Settings and select Personalization, then proceed to Background settings. Verify that "Picture" is selected as your background type in the primary dropdown menu. Click "Browse" to open the file explorer, locate your downloaded wallpaper, and select "Choose Picture" to apply it.
 
-**Step 2**: After rebooting, go to same folder and find the Themes zip file. Extract it, and go to following path: Themes_MacifiedWindows\macOS for Windows 11 22H2 - Mar 12 2023. In this folder you will find a folder called "Windows 11 22H2 Themes". Copy all files inside it and paste it to C:\Windows\Resources\Themes folder.
+Lock Screen Configuration
+To apply the same wallpaper to your lock screen, access Lock Screen settings within the Personalization menu and follow the identical steps outlined above. For optimal visual consistency, enable the option labeled "Show the lock screen background picture on the sign-in screen."
 
-**Step 3**: Go to settings>personalisation>themes and select the 2nd dark theme of MacOS (MacOS-dark solid, 6 images) as first one has some bugs. Apply and with this, you will notice some changes in UI elements. 
+# #2 macOS Cursors for Windows
+1. **Extract the Cursor Package**
+Locate the file "tahoe_cursors_MacnifyWindows.zip" within the Macnify-Windows folder. Select "Extract all" from the top toolbar, then click "Extract" to decompress the contents to your preferred destination.
 
-Lets move ahead to wallpapers now :) 
- 
-# Wallpapers
+2. **Access the Cursor Files**
+Navigate to the extracted folder and open "MacOS Tahoe Cursors," followed by "Tail," then "Without Shadow."
 
-Setting the MacOS Wallpaper in beginning will start giving you a vibe of it so you dont get lazy and bored while doing all steps. So go download the zip file of wallpapers or if you have downloaded the full package, you can simply find wallpapers zip inside it. extract it and choose any wallpaper which suits your taste. 
+3. **Install the Cursor Scheme**
+Right-click the "install" file and select "Install." When prompted with a security warning, choose "Open" to proceed with the installation.
 
-i added around 50+ high quality wallpapers originally extracted from MacOS. These are my favs so you dont have to look out for more. 
-still incase you dont like them or dont wanna spend 200mb on walpaper alone, [you can get individual files here](https://t.me/macOSWallpaper)
+4. **Configure System Settings**
+Press the Windows key and search for "Change the mouse pointer display or speed." Open the corresponding settings panel.
 
-# Widgets
+5. **Apply the Cursor Theme**
+Navigate to the "Pointers" tab and select "MacOS Tahoe Cursor (No Shadow)" from the Scheme dropdown menu. Click "Apply," then "OK" to implement your changes.
 
-Firstly you have to install the Uwidgets app. Download it from [here](https://github.com/creewick/uWidgets/releases) and install it. 
+# #3 macOS Widgets for Windows
 
-after downloading this, run the Uwidgets app. In there, you will be able to select from a variety of widgets of your choice, with the glass effect on them.
+## Installation Process
 
-# Dock and menu bar
+### 1. Extract the Widget Package
+Locate `Widgets_MacnifyWindows.zip` within the Macnify-Windows folder. Select **Extract all** from the toolbar to decompress the contents to your designated location.
 
-This is the most demanded thing.So yes, lets get started.
+### 2. Install uWidgets Application
+Identify your system architecture folder and extract its contents. Launch the installation by double-clicking the uWidgets application icon.
 
-**Step 1**: Extract the dock_MacifiedWindows.rar file. There will be "dock_macifiedwindows" folder which you gotta open. Again same folder (same name) will appear and open it again. (sorry for this duplication, i forgot to fix)
+### 3. Bypass Security Warnings
+If Windows displays a protection warning, click **More info**, then select **Run anyway** to proceed with the installation.
 
-**Step 2**: Inside that folder, there will be many folders and files. Find the dock_64.exe file or dock.exe and open it. 
+## Configuration and Customization
 
-**Step 3**: Boom, thats it. Dock and menu bar will appear. 
+### 4. Add Widgets to Your Desktop
+Once the application launches, use the left toolbar to drag and drop your desired widgets onto the desktop.
 
-_You will notice taskbar overlaying on dock or menu bar not appeared. So you have to change some settings_ 
+### 5. Customize Widget Settings
+Right-click any widget to access customization options, including position, metrics, units, and size adjustments. To remove a widget, select **Remove widget** from the context menu. Alternatively, use the slider control that appears in the bottom-right corner when hovering over a widget.
 
-**Step 4**: Bring your mouse over dock and right click on some empty space. Select "preferences" from the list that appears which will open a settings page.
+### 6. Apply the macOS Theme
+Navigate to the **Appearance** tab in the left column and select the fifth theme option to achieve an authentic macOS aesthetic.
 
-**Step 5**: Open advanced settings on sidebar (leftside) and scroll to last where you will find an option called "dock layout backup". Open the drop down list there and select "Macified Windows". It will ask to restore that backup and then the app will restart itself. Thats all, your dock is now fully setup 
+### 7. Adjust Transparency Settings
+Scroll down to the **Opacity Level** settings and adjust accordingly. For dark wallpapers, setting opacity to zero is recommended for optimal visual integration.
 
-**Note**: You might notice that some applications on dock dont open. This is because they arent installed in your PC/laptop. You can remove that icon and add your favourite ones. Menubar doesnt need much changes. you can customise it as per your likings. 
- 
-# Stage Manager
-
-Open preferences option as you did in step 4 of [Dock and menu bar](https://github.com/Runixe786/Macified-Windows#dock-and-menu-bar). Keep the same settings as shown in screenshot below
-
-<p align="left">
-  <img src='https://graph.org/file/9f2cff946556f52f8579c.jpg' width='800'>
-</p>
-
-# System & dock icons
-
-_Lets change system icons first, to that of macOS._
-
-**Step 1:** You extracted themes_macifiedwindows.zip in #Themes segment. Open the extracted folder which will open folder "macOS for Windows 11 22H2 - Mar 12 2023" . open this folder too and then open folder called "7tsp for Control Panel and Winver Colors" . Inside it rename the file "7tsp macOS Day & Dark EXTRAS.7z.remove" by deleting ".remove" so its extension changes to 7z
-
-**Step 2:** Go back one step and open folder called "7tsp icon themes" . Do the same thing here by deleting .remove so its extension changes to 7z. 
-
-**Step 3:** Go back to main folder and extract "7tsp_MacifiedWindows.zip". Extract it, rename the 7tsp.ee file to 7tsp.exe (add x in between the extension "ee" ) . Now its an exe file and open it, give permissions and wait a sec for it to open. 
-
-**Step 4:** When its launched, you will see a button called "add a custom pack" . click it and select the 7z file you got in step 1. Patch it and reboot pc. Do the same process again with 7z file in step 2. With this, you will have MacOS icon pack installed in your pc.
-
-_Now time for dock icons. This is a tough job as you gotta download icon for every app (you want to have on dock) and then apply it manually._
-  
-**Step 1:** To do this, download icon (png or jpg) from google search. Make sure they are with transparent background or you can remove background using edit feature of photos app. 
-
-Step 2: Right click on app icon on dock whose icon you wanna edit. Choose "edit this icon" and a windows will pop-up. 
-
-Step 3: click on existing icon which will take you to file explorer to choose new icon. CHoose the downloaded icon file and select ok.
-
-Step 4: Now its applied but wait, dont close the windows. You will see an option "scale icon to macOS standards" which will be already ticked. untick and tick it back. Now click ok on top right corner. 
-
-Step 5: All done, your new icon is applied.
-
-# File Explorer
-
-You can achieve blurry macOS look in file explorer using ExplorerBlurMica shared in releases tab. Extract the zip file and follow [this guide](https://graph.org/%D1%95%CE%B1n%CE%B9%E2%84%93-10-13) . choose effects as blur (put value as 0) . More instructions in Extra customisations shared in the end.
-
-# Cursors 
-
-**Step 1:** Extract cursors zip file and open the folder which appears. You will see a file called "install.inf". Right click on it and choose install option. Now the cursor pack is installed
-
-**Step 2:** Go to settings>personalisation>Themes>Mouse cursors which will open a new window called "mouse properties" . open the drop-down list in scheme under "pointers" category. Select "mac :)" from there and apply. click ok and now its done. 
-
-# Extra customisations 
-
-Coming soon
+### 8. Configure Text Display
+To display colored text rather than monochrome, disable the toggle next to **Monochrome theme**.
 
 # Credits
-This repo is all written and maintained by me aka [Sahil](https://t.me/MaybeSahil)
+This repo is written and (hopefully) maintained by me aka SuperSpacer54376
 
-[Aqua](https://t.me/burhanverse) and [blueboy](https://t.me/burhanverse) for testing some tools.
+Thanks to Sourav Dev Sahu for assistance on creating the guide!
 
-[Unknown](https://t.me/Danc2livee) for project name. 
-
-[Samcux on youtube](https://www.youtube.com/@samcux) for guides.
-
-and respective app/softwares developers whose products i used in this project. 
+Thank you and respective app/softwares developers whose products i used in this project. 
 
 
 # Feedback 
-If you find any broken or wrong text or link Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/Macified-Windows/issues/new) or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
+If you find any broken or wrong text or link Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/Macified-Windows/issues/new) or contact me on discord! superspacer54376
 
-You can join our support channel where i will post beta updates to test new versions. [here is the link](https://t.me/GithubGeeks)
-
-**Do star this repo to show your support and share as well, means a lot**. Thanks, see yaa 💝
+Please star this repo if this helped you! It really means a lot!
