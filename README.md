@@ -1,30 +1,20 @@
-THIS PROJECT IS STILL UNDER CONSTRUCTION. PLEASE REFRAIN FROM FOLLOWING ANY GUIDES. ESTIMATE FINISH TIME 11/23/2025 8:00 PM CST
-
-
-
 [![GitHub Logo](https://github.com/SuperSpacer54376/Macnify-Windows/blob/f1138e664b74a5a918cb7cf94c38a854cd414db5/Assets/Macnify%20Windows%20(1).png)](https://github.com/SuperSpacer54376/Macnify-Windows)
     <h1 align="center">Macnify Windows</h1>
     This version of Macnify is based on Mac OS Tahoe 26. Please request if you want any other versions!
 
 # Table of Contents
 
-* [Final Look](#Final-Look)
-* [Themes](#Themes)
-* [Wallpapers](#Wallpapers)
-* [Rainmeter widgets](#Rainmeter-widgets)
-* [Dock and menu bar](#Dock-and-menu-bar)
-* [Stage manager](#Stage-manager)
-* [System & dock icons](#System-&-dock-icons)
-* [File Explorer](#File-Explorer)
-* [Cursors](#Cursors)
-* [Extra customisations](#Extra-customisations)
-* [Credits](#Credits)
-* [Feedback](#Feedback)
+- [Final Look](#final-look)
+- [1. Premium macOS Wallpapers for Windows](#1-premium-macos-wallpapers-for-windows)
+- [2. macOS Cursors for Windows](#2-macos-cursors-for-windows)
+- [3. macOS Widgets for Windows](#3-macos-widgets-for-windows)
+- [4. macOS File Explorer for Windows](#4-macos-file-explorer-for-windows)
+- [5. macOS Status Bar and Dock](#5-macos-status-bar-and-dock)
+- [Credits](#credits)
+- [Feedback](#feedback)
+
 
 # Final Look
-
-So this is how the final look on your windows desktop will come out. Its always subject to the amount of customisations you do. If you follow instructions as given below in every segment, you will accomplish the same as in screenshots below:
-
 
 <p align="center">
   <img src='https://graph.org/file/f624ebe7959b8e32d218f.jpg' width='700'>
@@ -35,7 +25,7 @@ So this is how the final look on your windows desktop will come out. Its always 
   <img src='https://graph.org/file/9e2a334b753c5bffc0b5e.jpg' width='700'>
 </p>
 
-# #1 Premium macOS Wallpapers for Windows
+# 1. Premium macOS Wallpapers for Windows
 Access the latest macOS wallpaper collection [here](https://photos.google.com/share/AF1QipP6QAR8AyIrKR2HcY0hZOlyDXtJql7xSME9rQtOHMXAShdcjMXMCkYSE6Hx77W-aQ?key=clpGWEQ2bm5yNFpEMlIyWWJXbm1TTW1abjloMUF3). Select your preferred wallpaper and download it to your device.
 
 Desktop Background Configuration
@@ -44,7 +34,7 @@ Navigate to Windows Settings and select Personalization, then proceed to Backgro
 Lock Screen Configuration
 To apply the same wallpaper to your lock screen, access Lock Screen settings within the Personalization menu and follow the identical steps outlined above. For optimal visual consistency, enable the option labeled "Show the lock screen background picture on the sign-in screen."
 
-# #2 macOS Cursors for Windows
+# 2. macOS Cursors for Windows
 1. **Extract the Cursor Package**
 Locate the file "tahoe_cursors_MacnifyWindows.zip" within the Macnify-Windows folder. Select "Extract all" from the top toolbar, then click "Extract" to decompress the contents to your preferred destination.
 
@@ -60,7 +50,7 @@ Press the Windows key and search for "Change the mouse pointer display or speed.
 5. **Apply the Cursor Theme**
 Navigate to the "Pointers" tab and select "MacOS Tahoe Cursor (No Shadow)" from the Scheme dropdown menu. Click "Apply," then "OK" to implement your changes.
 
-# #3 macOS Widgets for Windows
+# 3. macOS Widgets for Windows
 
 ## Installation Process
 
@@ -90,15 +80,7 @@ Scroll down to the **Opacity Level** settings and adjust accordingly. For dark w
 ### 8. Configure Text Display
 To display colored text rather than monochrome, disable the toggle next to **Monochrome theme**.
 
-# macOS File Explorer for Windows
-
-A comprehensive guide to transform Windows File Explorer with a macOS-inspired interface.
-
-## Prerequisites
-
-- Windows 10/11
-- Administrator privileges
-- Macnify-Windows package
+# 4. macOS File Explorer for Windows
 
 ## Installation Steps
 
@@ -193,28 +175,10 @@ Upon successful installation, File Explorer will feature:
 - Customized window management controls
 - Unified accent color theming
 
-## Troubleshooting
-
-- **Access Denied**: Ensure all operations are performed with administrator privileges
-- **Theme Not Applying**: Verify SecureUXTheme installation and system restart
-- **Missing Files**: Re-extract archives to ensure all components are present
-
-## Notes
-
-- Some operations may trigger Windows security warnings—these are expected for theme modifications
-- Administrator permissions are required for system-level theme changes
-- Always create a system restore point before applying system modifications
-
 ---
-# macOS Status Bar and Dock
+# 5. macOS Status Bar and Dock
 
 Transform your Windows desktop with a macOS-inspired dock and status bar using MyDockFinder.
-
-## Prerequisites
-
-- Windows 10/11
-- Administrator privileges
-- Macnify-Windows package
 
 ## Installation Steps
 
@@ -271,12 +235,6 @@ The dock and status bar can be customized through MyDockFinder's settings panel 
 - Customize the status bar to display system metrics
 - Configure keyboard shortcuts for quick dock access
 
-## Notes
-
-- MyDockFinder runs in the background and starts automatically with Windows
-- Initial setup applies default macOS-inspired settings
-- Settings can be modified at any time through the application interface
-
 ---
 
 
@@ -292,3 +250,5 @@ Thank you and respective app/softwares developers whose products i used in this 
 If you find any broken or wrong text or link Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/Macified-Windows/issues/new) or contact me on discord! superspacer54376
 
 Please star this repo if this helped you! It really means a lot!
+---
+Note: I am NOT responsible for any damage that happens to your system. Always create a restore point before doing any customizations.
