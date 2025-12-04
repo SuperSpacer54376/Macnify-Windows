@@ -160,15 +160,7 @@ To position window controls on the left side (macOS style):
 1. Locate `Leftsider.zip` in the MacnifyWindows folder
 2. Right-click and select **Extract All**
 3. Navigate to: `Extracted Folder` → `Leftsider V1.02`
-4. Right-click `leftsider` and select **Run as administrator**
-
-## Verification
-
-Upon successful installation, File Explorer will feature:
-- macOS-inspired visual design
-- Blur effect integration
-- Customized window management controls
-- Unified accent color theming
+4. Right-click `leftsider` and select **Run as administrator*
 
 ---
 # 5. macOS Status Bar and Dock
@@ -202,33 +194,7 @@ MyDockFinder will automatically:
 
 The dock and status bar can be customized through MyDockFinder's settings panel to match your preferences.
 
-### Recommended Adjustments
-
-- **Dock Position**: Adjust placement (bottom, left, right)
-- **Icon Size**: Customize dock icon dimensions
-- **Animation Effects**: Configure hover and launch animations
-- **Status Bar**: Customize appearance and displayed information
-- **Auto-hide**: Enable/disable auto-hide functionality
-
-## Features
-
-- **macOS-Style Dock**: Application launcher with smooth animations
-- **Status Bar**: System information and quick access menu
-- **Customizable Appearance**: Adjust size, position, and behavior
-- **Application Management**: Pin and organize frequently used apps
-
-## Troubleshooting
-
-- **Application Not Starting**: Verify administrator privileges and Windows Defender exceptions
-- **Dock Not Visible**: Check display settings and scaling options
-- **Performance Issues**: Adjust animation settings or disable visual effects
-
-## Usage Tips
-
-- Right-click the dock for quick configuration options
-- Drag applications to the dock to pin them
-- Customize the status bar to display system metrics
-- Configure keyboard shortcuts for quick dock access
+Go to Advanced and recover the backup or customize it to your preferences.
 
 ---
 
